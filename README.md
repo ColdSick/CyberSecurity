@@ -84,7 +84,8 @@ The playbook implements the following tasks:
 •	Initializes on reboot
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
- 
+ ![image](https://user-images.githubusercontent.com/73406341/109871324-b4e34600-7c30-11eb-83a7-d1325ac4ed32.png)
+
 
 Target Machines & Beats
 
